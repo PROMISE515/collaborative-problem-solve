@@ -9,7 +9,7 @@ Use `sol_collaborator` as the primary agent. It owns the problem-solving process
 
 ## Run one decision cycle
 
-1. Read the relevant project memory when it exists. State the problem, desired outcome, constraints, known facts, assumptions, and highest-value unknowns. Ask only essential clarifying questions.
+1. Read the relevant project memory when it exists. Treat that record as permanent: do not create a retention, expiry, archive, cleanup, or scheduled memory-management task. State the problem, desired outcome, constraints, known facts, assumptions, and highest-value unknowns. Ask only essential clarifying questions.
 2. Gather safe direct evidence. Delegate at most two independent, narrow questions to `luna_diagnostician` when reproduction, source checking, or an adversarial view materially reduces uncertainty.
 3. Present a decision checkpoint with two or three options: recommendation, evidence, confidence, risk, reversibility, expected signal, and the smallest next test.
 4. Await the user's direction before a destructive, externally visible, costly, or scope-expanding step. Do not stop for routine read-only investigation or a clearly reversible test within the agreed scope.

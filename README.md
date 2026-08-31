@@ -40,6 +40,8 @@ Use $collaborative-problem-solve to work with me on this project problem: …
 
 For a project already owned by a Terra-Luna pod, this collaboration loop is an escalation process. It does not transfer primary project ownership or primary-memory write authority.
 
+Project memory is durable and non-expiring. This Skill never creates a memory-retention, archive, cleanup, or scheduled expiration task.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
